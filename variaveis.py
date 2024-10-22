@@ -16,7 +16,7 @@ print("Sua idade é: "+str(age))
 #print(type(age))  tipo inteiro#
 
 
-height = 90.02
+height = 1.87
 
-print("Seu peso é: " +str(height))
+print("Seu altura é: " +str(height) + "cm")
 #print(type(height)) tipo float#
