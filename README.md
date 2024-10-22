@@ -22,7 +22,7 @@ Este repositório foi criado com o intuito de armazenar todos os códigos que es
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/brunokaua/nome-do-repositorio.git
    ```
 
 2. Entre no diretório do repositório:
