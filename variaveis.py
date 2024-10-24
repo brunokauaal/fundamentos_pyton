@@ -18,7 +18,7 @@ print("Sua idade é: "+str(age))
 
 height = 1.87
 
-print("Seu altura é: " +str(height) + "cm")
+print("Sua altura é: " +str(height) + "cm")
 #print(type(height)) tipo float#
 
 vaccinated = True
