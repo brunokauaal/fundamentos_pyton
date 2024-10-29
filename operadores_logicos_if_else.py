@@ -1,4 +1,4 @@
-#Operadores lógicos (e,ou,não) = usados para verificar se duas ou mais declarações de condição]
+#Operadores lógicos (e,ou,não) = usados para verificar se duas ou mais declarações de condição
 
 
 temp = int(input("Como esta a temperatura la fora hoje?: "))
